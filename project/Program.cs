@@ -15,12 +15,7 @@ namespace program
 
             bool flag = false;
 
-
-            // foreach (var item in input1)
-            // {
-            //     lsit.Add(item);
-            // }
-            foreach (var item in CostomSplit(input1))
+            foreach (var item in CostomSplit(input1,input2.Length))
             {
                 if (item == input2)
                 {
@@ -35,7 +30,7 @@ namespace program
                 Console.WriteLine("No exist word");
         }
 
-        public static List<string> CostomSplit(string input)
+        public static List<string> CostomSplit(string input,int charnamber)
         {
             List<string> ls = new List<string>();
 
