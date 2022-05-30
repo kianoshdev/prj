@@ -19,11 +19,11 @@ namespace Program
             string m = "";
             string m2 = "";
             int n = 0;
-            int correctCharCount = 0;
+            int count = 0;
             for (int v = 0; v <= sen.Length - 1; v++)
             {
                 n = v;
-                if(correctCharCount == wo.Length)
+                if(count == wo.Length)
                 {
                     break;
                 }
@@ -31,18 +31,18 @@ namespace Program
                 {
                     if (wo[i] == sen[n])
                     {
-                        correctCharCount++;
+                        count++;
                         n++;
                     }
                     else
                     {
-                        correctCharCount = 0;
+                        count = 0;
                         i--;
                         break;
                     }
                 }
             }
-            string answer = correctCharCount == wo.Length ? "Exist word" : "Dosent exist word";
+            string answer = count == wo.Length ? "Exist word" : "Dosent exist word";
             return answer;
         }
     }
