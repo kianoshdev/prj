@@ -1,0 +1,15 @@
+D:\prj\Findnumber\bin\Debug\net6.0\Findnumber.exe
+D:\prj\Findnumber\bin\Debug\net6.0\Findnumber.deps.json
+D:\prj\Findnumber\bin\Debug\net6.0\Findnumber.runtimeconfig.json
+D:\prj\Findnumber\bin\Debug\net6.0\Findnumber.dll
+D:\prj\Findnumber\bin\Debug\net6.0\ref\Findnumber.dll
+D:\prj\Findnumber\bin\Debug\net6.0\Findnumber.pdb
+D:\prj\Findnumber\obj\Debug\net6.0\Findnumber.csproj.AssemblyReference.cache
+D:\prj\Findnumber\obj\Debug\net6.0\Findnumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\prj\Findnumber\obj\Debug\net6.0\Findnumber.AssemblyInfoInputs.cache
+D:\prj\Findnumber\obj\Debug\net6.0\Findnumber.AssemblyInfo.cs
+D:\prj\Findnumber\obj\Debug\net6.0\Findnumber.csproj.CoreCompileInputs.cache
+D:\prj\Findnumber\obj\Debug\net6.0\Findnumber.dll
+D:\prj\Findnumber\obj\Debug\net6.0\ref\Findnumber.dll
+D:\prj\Findnumber\obj\Debug\net6.0\Findnumber.pdb
+D:\prj\Findnumber\obj\Debug\net6.0\Findnumber.genruntimeconfig.cache
