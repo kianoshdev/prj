@@ -2,7 +2,7 @@
  
  namespace Program
  {
-     static class Program
+     static class FindWord
      {
          static void Main(string[] args)
         {
@@ -20,6 +20,11 @@
             bool flag = false;
             for (int i = 0; i <= wo.Length - 1; i++)
             {
+                if (n == sen.Length)
+                {
+                    flag = false;
+                    break;
+                }
                 if (wo[i] == sen[n])
                 {
                     n++;
@@ -27,7 +32,7 @@
                 }
                 else
                 {
-                    i--;
+                    i = -1;
                     n++;
                     flag = false;
                 }
