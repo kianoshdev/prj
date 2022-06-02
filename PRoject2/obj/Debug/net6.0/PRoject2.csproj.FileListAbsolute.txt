@@ -1,0 +1,15 @@
+D:\prj\PRoject2\bin\Debug\net6.0\PRoject2.exe
+D:\prj\PRoject2\bin\Debug\net6.0\PRoject2.deps.json
+D:\prj\PRoject2\bin\Debug\net6.0\PRoject2.runtimeconfig.json
+D:\prj\PRoject2\bin\Debug\net6.0\PRoject2.dll
+D:\prj\PRoject2\bin\Debug\net6.0\ref\PRoject2.dll
+D:\prj\PRoject2\bin\Debug\net6.0\PRoject2.pdb
+D:\prj\PRoject2\obj\Debug\net6.0\PRoject2.csproj.AssemblyReference.cache
+D:\prj\PRoject2\obj\Debug\net6.0\PRoject2.GeneratedMSBuildEditorConfig.editorconfig
+D:\prj\PRoject2\obj\Debug\net6.0\PRoject2.AssemblyInfoInputs.cache
+D:\prj\PRoject2\obj\Debug\net6.0\PRoject2.AssemblyInfo.cs
+D:\prj\PRoject2\obj\Debug\net6.0\PRoject2.csproj.CoreCompileInputs.cache
+D:\prj\PRoject2\obj\Debug\net6.0\PRoject2.dll
+D:\prj\PRoject2\obj\Debug\net6.0\ref\PRoject2.dll
+D:\prj\PRoject2\obj\Debug\net6.0\PRoject2.pdb
+D:\prj\PRoject2\obj\Debug\net6.0\PRoject2.genruntimeconfig.cache
