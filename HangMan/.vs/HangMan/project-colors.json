@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7843464-17ab-483f-9fba-d8f2204ba26f": {
+      "ProjectGuid": "b7843464-17ab-483f-9fba-d8f2204ba26f",
+      "DisplayName": "HangMan",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
