@@ -1,0 +1,15 @@
+D:\prj\Recursive\bin\Debug\net6.0\Recursive.exe
+D:\prj\Recursive\bin\Debug\net6.0\Recursive.deps.json
+D:\prj\Recursive\bin\Debug\net6.0\Recursive.runtimeconfig.json
+D:\prj\Recursive\bin\Debug\net6.0\Recursive.dll
+D:\prj\Recursive\bin\Debug\net6.0\ref\Recursive.dll
+D:\prj\Recursive\bin\Debug\net6.0\Recursive.pdb
+D:\prj\Recursive\obj\Debug\net6.0\Recursive.csproj.AssemblyReference.cache
+D:\prj\Recursive\obj\Debug\net6.0\Recursive.GeneratedMSBuildEditorConfig.editorconfig
+D:\prj\Recursive\obj\Debug\net6.0\Recursive.AssemblyInfoInputs.cache
+D:\prj\Recursive\obj\Debug\net6.0\Recursive.AssemblyInfo.cs
+D:\prj\Recursive\obj\Debug\net6.0\Recursive.csproj.CoreCompileInputs.cache
+D:\prj\Recursive\obj\Debug\net6.0\Recursive.dll
+D:\prj\Recursive\obj\Debug\net6.0\ref\Recursive.dll
+D:\prj\Recursive\obj\Debug\net6.0\Recursive.pdb
+D:\prj\Recursive\obj\Debug\net6.0\Recursive.genruntimeconfig.cache
