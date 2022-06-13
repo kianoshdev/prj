@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Recve
+namespace Receve
 {
     static class Program
     {
