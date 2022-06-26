@@ -1,0 +1,15 @@
+D:\prj\LambdaExpresion\bin\Debug\net6.0\LambdaExpresion.exe
+D:\prj\LambdaExpresion\bin\Debug\net6.0\LambdaExpresion.deps.json
+D:\prj\LambdaExpresion\bin\Debug\net6.0\LambdaExpresion.runtimeconfig.json
+D:\prj\LambdaExpresion\bin\Debug\net6.0\LambdaExpresion.dll
+D:\prj\LambdaExpresion\bin\Debug\net6.0\ref\LambdaExpresion.dll
+D:\prj\LambdaExpresion\bin\Debug\net6.0\LambdaExpresion.pdb
+D:\prj\LambdaExpresion\obj\Debug\net6.0\LambdaExpresion.csproj.AssemblyReference.cache
+D:\prj\LambdaExpresion\obj\Debug\net6.0\LambdaExpresion.GeneratedMSBuildEditorConfig.editorconfig
+D:\prj\LambdaExpresion\obj\Debug\net6.0\LambdaExpresion.AssemblyInfoInputs.cache
+D:\prj\LambdaExpresion\obj\Debug\net6.0\LambdaExpresion.AssemblyInfo.cs
+D:\prj\LambdaExpresion\obj\Debug\net6.0\LambdaExpresion.csproj.CoreCompileInputs.cache
+D:\prj\LambdaExpresion\obj\Debug\net6.0\LambdaExpresion.dll
+D:\prj\LambdaExpresion\obj\Debug\net6.0\ref\LambdaExpresion.dll
+D:\prj\LambdaExpresion\obj\Debug\net6.0\LambdaExpresion.pdb
+D:\prj\LambdaExpresion\obj\Debug\net6.0\LambdaExpresion.genruntimeconfig.cache
