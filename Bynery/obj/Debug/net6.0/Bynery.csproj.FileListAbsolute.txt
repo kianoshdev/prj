@@ -1,0 +1,15 @@
+D:\prj\Bynery\bin\Debug\net6.0\Bynery.exe
+D:\prj\Bynery\bin\Debug\net6.0\Bynery.deps.json
+D:\prj\Bynery\bin\Debug\net6.0\Bynery.runtimeconfig.json
+D:\prj\Bynery\bin\Debug\net6.0\Bynery.dll
+D:\prj\Bynery\bin\Debug\net6.0\ref\Bynery.dll
+D:\prj\Bynery\bin\Debug\net6.0\Bynery.pdb
+D:\prj\Bynery\obj\Debug\net6.0\Bynery.csproj.AssemblyReference.cache
+D:\prj\Bynery\obj\Debug\net6.0\Bynery.GeneratedMSBuildEditorConfig.editorconfig
+D:\prj\Bynery\obj\Debug\net6.0\Bynery.AssemblyInfoInputs.cache
+D:\prj\Bynery\obj\Debug\net6.0\Bynery.AssemblyInfo.cs
+D:\prj\Bynery\obj\Debug\net6.0\Bynery.csproj.CoreCompileInputs.cache
+D:\prj\Bynery\obj\Debug\net6.0\Bynery.dll
+D:\prj\Bynery\obj\Debug\net6.0\ref\Bynery.dll
+D:\prj\Bynery\obj\Debug\net6.0\Bynery.pdb
+D:\prj\Bynery\obj\Debug\net6.0\Bynery.genruntimeconfig.cache
